@@ -9,16 +9,16 @@ npm i crypto-js dotenv express superagent
 
 package.json 파일에서 "type: commonjs"를 "type: module"로 변경
 
-## 실행
-```bash
-node start 
-```
-
 ### 환경 변수 설정
 .env 파일 안에 다음과 같이 변수명 설정.
 ```bash
 clovaChat = {APIGW Invoke URL}
 CLIENT_SECRET = {Secret key}
+```
+
+## 실행
+```bash
+node start 
 ```
 
 # 기능 구현  

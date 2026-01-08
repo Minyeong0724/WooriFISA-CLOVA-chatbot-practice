@@ -1,10 +1,25 @@
-# Demo
-https://github.com/user-attachments/assets/7583e81c-916f-4ea3-b2ab-e76c989ffe7f
-
-
-
+# Demo 
+![demoV1 (1)](https://github.com/user-attachments/assets/c473fb5b-5a57-441a-b477-5c4ab81f23ed)
 
 # 실행 방법
+## 환경 설정
+```bash
+npm i crypto-js dotenv express superagent 
+```
+
+package.json 파일에서 "type: commonjs"를 "type: module"로 변경
+
+## 실행
+```bash
+node start 
+```
+
+### 환경 변수 설정
+.env 파일 안에 다음과 같이 변수명 설정.
+```bash
+clovaChat = {APIGW Invoke URL}
+CLIENT_SECRET = {Secret key}
+```
 
 # 기능 구현  
 

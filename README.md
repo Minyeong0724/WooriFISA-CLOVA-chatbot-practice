@@ -2,7 +2,7 @@
 - 웹 페이지
 	웹디자인
 		- 외부 HTML, CSS, JS코드 수정 후 사용
-  (출처: https://medium.com/@layerspilot.group/build-a-chatbot-template-html-css-full-guide-with-source-code-aac4f81210b9) 
+	- (출처: https://medium.com/@layerspilot.group/build-a-chatbot-template-html-css-full-guide-with-source-code-aac4f81210b9) 
 
 - Js 웹 동작
 	- 버튼 클릭과 엔터 이벤트
